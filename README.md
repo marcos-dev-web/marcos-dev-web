@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-**I am a web developer but i'm also working in mobile applications using react-native**
+**I am a web developer but i'm also work in mobile applications using react-native**
 ![logo_image](https://user-images.githubusercontent.com/76922074/129116521-4ea13758-73d2-4a85-8a29-f921354ffa86.png)
 
