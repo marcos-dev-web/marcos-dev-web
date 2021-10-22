@@ -1,16 +1,9 @@
-- 👋 Hi, I’m @marcos-dev-web
-- 👀 I’m interested in JavaScript, HTML, CSS3, ReactJs, NextJs, NodeJs
-- 🌱 I’m currently learning ReactJs, NodeJs, NextJs
-- 📫 How to reach me: https://www.instagram.com/marcos.dev.web | https://marcosdevweb.herokuapp.com
-- 📺 YouTube: https://www.youtube.com/channel/UC57aZNApP_OzCvJYo_9-IYg
 
-<!---
-marcos-dev-web/marcos-dev-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 I'm current working as software developer
+- 👨‍💻 I'm have better knowledges about javascript using the React Framework
+- ⚙️ I'm working with mobile app's, web apps, and backend with C# and NodeJS
+- 💼 I'm at 3 months working as junior software developer 
 
-
-
-**I am a web developer but i'm also work in mobile applications using react-native**
+_marcos development_
 ![logo_image](https://user-images.githubusercontent.com/76922074/129116521-4ea13758-73d2-4a85-8a29-f921354ffa86.png)
 
